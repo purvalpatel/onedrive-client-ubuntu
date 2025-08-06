@@ -33,10 +33,29 @@ cd onedrive
 make
 sudo make install
 ```
-If git clone not working then download source code from:
+If git clone not working then use below steps:
+```bash
+[download source](https://raw.githubusercontent.com/purvalpatel/onedrive-client-ubuntu/9dce8b7d3a5e7425f2b86dbded9cfa9e3be97e3c/onedrive.tar.gz)
+tar -xvzf onedrive.tar.gz
+cd onedrive
+./configure
+make
+sudo make install
+```
+Here, Your installation is completed.
 
+##### Follow below steps to configure your onedrive account:
 
+Run below command:
+```
+onedrive
+```
+It will ask to open link in browser and login with one drive credentials. 
+
+once it is logged in it will ask to copy link of browser then paste on terminal.
 
 <img width="1915" height="658" alt="image" src="https://github.com/user-attachments/assets/974810cb-08bb-4661-80aa-2fe255bf8cf9" />
 
+<img width="1872" height="490" alt="image" src="https://github.com/user-attachments/assets/503ce3cc-1652-47c3-82d4-0ad6b6d09f1e" />
 
+And done, You are configured onedrive client in your machine.
