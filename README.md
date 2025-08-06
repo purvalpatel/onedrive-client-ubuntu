@@ -76,3 +76,8 @@ Check avaiilable and used storage quota:
 ```
 onedrive --display-quota
 ```
+
+For further options you can check:
+```
+onedrive --help
+```
