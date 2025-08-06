@@ -2,7 +2,7 @@ There’s no official Microsoft OneDrive client for Linux.
 
 This project is regarding installation of onedrive client for ubuntu 24.04. 
 
-Best Option: onedrive by abraunegg
+Best Option: onedrive by [abraunegg](https://github.com/abraunegg/onedrive)
 A well-maintained, full-featured command-line OneDrive client for Linux.
 
 Features:
