@@ -71,3 +71,8 @@ Files which are available in this folder will be synced on OneDrive Storage.
 ```
 onedrive --upload-only --sync
 ```
+
+Check avaiilable and used storage quota:
+```
+onedrive --display-quota
+```
