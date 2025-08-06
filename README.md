@@ -58,4 +58,16 @@ once it is logged in it will ask to copy link of browser then paste on terminal.
 
 <img width="1872" height="490" alt="image" src="https://github.com/user-attachments/assets/503ce3cc-1652-47c3-82d4-0ad6b6d09f1e" />
 
-And done, You are configured onedrive client in your machine.
+#### verify the configuration with:
+```
+onedrive --display-config
+```
+
+#### Sync file from local to onedrive:
+
+One folder is created in home directory named, OneDrive.
+Files which are available in this folder will be synced on OneDrive Storage.
+
+```
+onedrive --upload-only --sync
+```
