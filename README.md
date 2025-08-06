@@ -35,3 +35,8 @@ sudo make install
 ```
 If git clone not working then download source code from:
 
+
+
+<img width="1915" height="658" alt="image" src="https://github.com/user-attachments/assets/974810cb-08bb-4661-80aa-2fe255bf8cf9" />
+
+
