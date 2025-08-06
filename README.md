@@ -15,7 +15,7 @@ Supports selective sync via config
 Installation:
 ------------------
 
-Dependencies:
+#### Dependencies:
 ```bash
 sudo apt install build-essential git curl libcurl4-openssl-dev \
     libsqlite3-dev pkg-config libssl-dev libnotify-dev \
@@ -25,7 +25,7 @@ run script with below command or download script from [here](https://raw.githubu
 ```
 curl -fsS https://raw.githubusercontent.com/purvalpatel/onedrive-client-ubuntu/9dce8b7d3a5e7425f2b86dbded9cfa9e3be97e3c/rustup-init.sh | sh
 ```
-package compilation and installation:
+#### package compilation and installation:
 ```bash
 git clone https://github.com/abraunegg/onedrive.git
 cd onedrive
